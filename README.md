@@ -2,9 +2,13 @@
 <a href="https://velog.io/@jinsup9k">
 <img src="https://img.shields.io/badge/tech blog -20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/jinsup9k" class="">
+<img src="https://img.shields.io/badge/instagram -E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a> 
 <a href="mailto:01077717141p@gmail.com" class="">
 <img src="https://img.shields.io/badge/01077717141p@gmail.com -EA4336?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>  
+</a>
+ 
 
 
 

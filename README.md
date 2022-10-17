@@ -1,4 +1,14 @@
-## Hi there 👋
-<img src="https://img.shields.io/badge/spring framework-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=Springboot&logoColor=white">  
-📫 : 01077717141p@gmail.com  
-📝 : https://velog.io/@jinsup9k
+#### 👋 안녕하세요 박진수(진스박스)입니다.
+<a href="https://velog.io/@jinsup9k">
+<img src="https://img.shields.io/badge/tech blog -20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
+<a href="01077717141p@gmail.com" class="">
+<img src="https://img.shields.io/badge/01077717141p@gmail.com -EA4336?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>  
+
+
+
+
+#### skills
+<img src="https://img.shields.io/badge/java -007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring -6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/mysql -4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/git -F05032?style=flat-square&logo=git&logoColor=white"/> 
+

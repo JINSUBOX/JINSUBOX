@@ -1,4 +1,4 @@
-#### 👋 안녕하세요 박진수(진스박스)입니다.
+#### 👋 안녕하세요 박진수입니다.
 <a href="https://velog.io/@jinsup9k">
 <img src="https://img.shields.io/badge/tech blog -20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>

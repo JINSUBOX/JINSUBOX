@@ -19,7 +19,7 @@
 </table>
 <p>
 <a href="https://velog.io/@jinsubox">
- <img src="https://img.shields.io/badge/tech blog -20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+ <img src="https://img.shields.io/badge/blog -20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/jinsup9k" class="">
  <img src="https://img.shields.io/badge/instagram -E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
